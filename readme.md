@@ -15,8 +15,8 @@ GPU Miner for `ETH`, `RVN`,  `GRIN`, `BEAM`, `CFX`, `TRB`, `CKB`,`AE`, `BTM`, `S
 - BitcoinTalk: https://bitcointalk.org/index.php?topic=5099379
 
 ## Download
-
-[Download here](https://github.com/NebuTech/BTMiner_NebuTech/releases)
+]
+[Download here](
 
 ## Performance (stock frequency)
 
